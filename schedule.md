@@ -13,6 +13,11 @@ Fridays 11am-1pm (Lecture Compulsory, lab highly recommended) Pierce 301
 
 Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs are highly recommended. The benefit is that with attendance you will at-most have 1/2 hour to 1 hour additional lab work at home.
 
+## Office Hours
+
+- Rahul: By appointment (contact me, wednesday preferred)
+- Chenhui: Friday 2pm-3.30pm
+
 ## Syllabus by week
 
 | Week    | Monday: Systems and Software Engineering | Wednesday: Language                      | Friday: Data Structures and Algorithms   | @home                                    |
@@ -22,8 +27,8 @@ Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs
 | F01     | [Introduction to C](https://iacs-cs207.github.io/cs207/lectures/f01.html)                        | [Objects](https://github.com/iacs-cs207/cs207/blob/master/lectures/Objects.ipynb)                                  | [Lists](https://github.com/iacs-cs207/cs207/blob/master/lectures/DataStructures.ipynb)                                    |                                          |
 | F01 lab | Lab 4: [Introduction to C](https://iacs-cs207.github.io/cs207/lectures/f01-lab.html) [Submit](http://goo.gl/forms/LiCRca9CIs) (R)                             | [Lab 5: Time Series Data](https://github.com/iacs-cs207/cs207/blob/master/labs/distribute_ObjectsLab.ipynb), [Submit](http://goo.gl/forms/WIO0Wpwhqu)                  | Lab 6: [Linked lists](https://github.com/iacs-cs207/cs207/blob/master/labs/distribute_DataStructuresLab.ipynb), [Submit](http://goo.gl/forms/rH5he0YC44)                | Req: basic classes                       |
 | F08     | [Software engineering basics](https://github.com/iacs-cs207/cs207/blob/master/lectures/Software%20Design%20and%20Binary%20Search.ipynb)              | [Python sequences](https://github.com/iacs-cs207/cs207/blob/master/lectures/Sequences.ipynb)                         | Hashing                                  |                                          |
-| F02 lab | Lab 7: [Project Intro](https://iacs-cs207.github.io/cs207/lectures/f08-lab.html), [Group Form](http://goo.gl/forms/ghmcZfzeUp), [Individual Form](http://goo.gl/forms/2ZGOp2BmtK) | [Lab 8: Arrays and performance](https://github.com/iacs-cs207/cs207/blob/master/labs/SequencesLab.ipynb)            | Lab 9: Hashing (R)                       | Req: tests and numpy                     |
-| F15     | HOLIDAY                                | Programming paradigms                    | Numerical methods                        |                                          |
+| F08 lab | Lab 7: [Project Intro](https://iacs-cs207.github.io/cs207/lectures/f08-lab.html), [Group Form](http://goo.gl/forms/ghmcZfzeUp), [Individual Form](http://goo.gl/forms/2ZGOp2BmtK) | [Lab 8: Arrays and performance](https://github.com/iacs-cs207/cs207/blob/master/labs/SequencesLab.ipynb)            | Lab 9: Hashing (R)                       | Req: tests and numpy                     |
+| F15     | HOLIDAY                                | Numerical methods                    | Programming paradigms                        |                                          |
 | F15 lab | HOLIDAY        | Lab 11: Smart interfaces                 | Lab 12: Softmax (R)                      | Req: ts module, simple algorithms        |
 | F22     | Testing                                  | Iterators and generators                 | Trees and search                         |                                          |
 | F22 lab | Lab 13: Test-driven development          | Lab 14: Online outlier detection         | Lab 15: Trees (R)                        | Req: unit tests, online algorithms       |
