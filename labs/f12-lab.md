@@ -169,7 +169,7 @@ Recall that you need to compile your program with the `-g` option to get it to w
 
 Now comes the fun part: trying it out.
 
-** Smoke test: **
+**Smoke test:**
 
 Let's make sure it works first.
 
@@ -183,7 +183,7 @@ If you chose rather simplistic hash functions, you might see *substantially* les
 
 Please report your results on the form.
 
-** Understanding the trade-offs **
+**Understanding the trade-offs**
 
 In Bloom filters, there is tension when choosing the number of hash functions to use.
 With a small number of hash functions, collisions are more likely to directly lead to false positives, but as the number of hash functions grows, the number of bits set grows, which leads to more collisions.
