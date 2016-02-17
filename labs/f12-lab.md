@@ -162,8 +162,8 @@ If something is broken, don't be afraid to use the debugger!
 That's what it's there for.
 Recall that you need to compile your program with the `-g` option to get it to work.
 
+[Back to top &uarr;](#)
 
-  - [Task 4: Evaluating your filter](#t4)
 <a name='t4'></a>
 #### Task 4: Evaluating your filter
 
