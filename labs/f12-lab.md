@@ -62,7 +62,7 @@ As we'll see, there are some tradeoffs, but in general, Bloom filters are a pret
 
 [Back to top &uarr;](#)
 
-<a name='skeleton'></a>
+<a name='t0'></a>
 #### Task 0: Starting your bloom filter implementation
 
 We'll be doing this lab in C.
@@ -76,7 +76,7 @@ You can either clone the cs207 class repo or just copy-paste it from here: [bloo
 
 [Back to top &uarr;](#)
 
-<a name='family'></a>
+<a name='t1'></a>
 #### Task 1: Implement a family of hash functions
 
 Finding an arbitrary number of hash functions seems like a daunting task, but there's a clever trick that was discovered which simplifies the problem drastically.
