@@ -1,5 +1,5 @@
 ---
-title: Non-uniform Time and Lazy Functions 
+title: Non-uniform Time and Lazy Functions
 layout: lecture
 mathjax: true
 ---
@@ -14,7 +14,7 @@ mathjax: true
   - [Recursive evaluation](#eval)
   - [Lazy TimeSeries](#lazyts)
 
-** This is a group lab. Please work with your team. **
+**This is a group lab. Please work with your team.**
 
 There is no google form for this, as it will be graded along with the rest of your codebase at the course Milestones.
 
@@ -151,7 +151,7 @@ It can be for a number of reasons:
 [Back to top &uarr;](#)
 
 <a name='thunk'></a>
-## A thunk class
+### A thunk class
 
 As we mentioned, our lazy expressions are not going to return normal values.
 For instance, adding two numbers won't return a number, it will return an object that represents the result of the computation, which you can ask for later.
@@ -218,7 +218,7 @@ isinstance( lazy_add(1,2), LazyOperation ) == True
 [Back to top &uarr;](#)
 
 <a name='eval'></a>
-## Recursive evaluation
+### Recursive evaluation
 
 You're probably wondering what use this is. How do we actually use these?
 
@@ -268,7 +268,7 @@ If you've done everything right, you should be able to run this example.
 [Back to top &uarr;](#)
 
 <a name='lazyts'></a>
-## Lazy TimeSeries
+### Lazy TimeSeries
 
 The last step is to hook this up to your `TimeSeries` class.
 
