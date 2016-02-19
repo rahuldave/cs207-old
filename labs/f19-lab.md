@@ -1,5 +1,5 @@
 ---
-title: Programming Methodology
+title: Non-uniform Time and Lazy Functions 
 layout: lecture
 mathjax: true
 ---
