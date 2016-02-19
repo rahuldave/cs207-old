@@ -117,7 +117,7 @@ b = TimeSeries([2.5,7.5], [100, -100])
 a.interpolate([1]) == TimeSeries([1],[1.2])
 a.interpolate(b.times()) == TimeSeries([2.5,7.5], [1.5, 2.5])
 # Boundary conditions
-a.interpolate([-100,100]) == TimeSeries([1,3])
+a.interpolate([-100,100]) == TimeSeries([-100,100],[1,3])
 ```
 
 The idea is simply that for every new time point passed to the `interpolate` method, we'd like you to compute a value for the TimeSeries class assuming that it is a piecewise-linear function.
