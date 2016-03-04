@@ -1,0 +1,26 @@
+
+    digraph G {
+    nodesep=0.3;
+    ranksep=0.2;
+    margin=0.1;
+    node [shape=circle];
+    edge [arrowsize=0.8];
+    "f35c4b94-921a-4b0e-868c-043eb9d6beb2" -> "51bfb805-ed5c-4fb5-8368-96972dfd9191"[side=left];
+"51bfb805-ed5c-4fb5-8368-96972dfd9191" -> "e2178ef2-8fbd-415a-bc4a-460ae8be2904"[side=left];
+"51bfb805-ed5c-4fb5-8368-96972dfd9191" -> "514b1248-fcc3-44f6-af1c-dcbddbea5345"[side=right];
+"514b1248-fcc3-44f6-af1c-dcbddbea5345" -> "8d26a076-0157-40b2-b1d6-837fe2d127fa"[side=left];
+"8d26a076-0157-40b2-b1d6-837fe2d127fa" -> "c9cde4b6-27f8-48d7-a311-bca5d892f4eb"[side=left];
+"514b1248-fcc3-44f6-af1c-dcbddbea5345" -> "29a547fd-d052-45d1-ab3d-da8a3ce9d049"[side=right];
+"f35c4b94-921a-4b0e-868c-043eb9d6beb2" -> "c75175df-79ba-465b-ad02-a3b51d0c5671"[side=right];
+"c75175df-79ba-465b-ad02-a3b51d0c5671" -> "aa6566c9-27f1-452b-87cd-819803a2ffa6"[side=left];
+"c75175df-79ba-465b-ad02-a3b51d0c5671" -> "f9541b00-b67d-4a08-becc-088dcbae9323"[side=right];
+"29a547fd-d052-45d1-ab3d-da8a3ce9d049"[label="16,1"]
+"51bfb805-ed5c-4fb5-8368-96972dfd9191"[label="7,6"]
+"e2178ef2-8fbd-415a-bc4a-460ae8be2904"[label="2,1"]
+"f35c4b94-921a-4b0e-868c-043eb9d6beb2"[label="17,10"]
+"f9541b00-b67d-4a08-becc-088dcbae9323"[label="38,1"]
+"c9cde4b6-27f8-48d7-a311-bca5d892f4eb"[label="8,1"]
+"aa6566c9-27f1-452b-87cd-819803a2ffa6"[label="29,1"]
+"8d26a076-0157-40b2-b1d6-837fe2d127fa"[label="9,2"]
+"514b1248-fcc3-44f6-af1c-dcbddbea5345"[label="11,4"]
+"c75175df-79ba-465b-ad02-a3b51d0c5671"[label="35,3"]}
