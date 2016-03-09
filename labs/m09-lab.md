@@ -10,7 +10,7 @@ mathjax: true
   - [Downloading the Skeleton](#skeleton)
 - [Building a Lexer](#lexer)
 - [Building a Parser](#parser)
-  - [Understanding the EBNF Specification](#enbf)
+  - [Understanding the EBNF Specification](#ebnf)
   - [Writing parser rules](#parse_rules)
 - [AST Construction](#ast)
   - [AST Data Structures](#tree)
@@ -20,7 +20,7 @@ mathjax: true
 
 There is no google form for this. It will be graded along with the rest of your codebase at the course Milestones.
 
-<a name="#overview"></a>
+<a name="overview"></a>
 ## Overview
 
 A Domain-Specific Language (DSL) are a way of trading off generality for expressive power.
@@ -110,7 +110,7 @@ Because it's a team project, we encourage you to be proactive about distributing
 
 [Back to top &uarr;](#)
 
-<a name="#skeleton></a>
+<a name="skeleton></a>
 ### Downloading the Skeleton
 
 Language design and compiler construction are hard problems, and some of the design decisions that go into building them are beyond the scope of this class.
@@ -129,14 +129,16 @@ You'll also need to install ply. You should be able to use `conda` or `pip`. You
 ```
 conda install ply
 ```
+
 or
+
 ```
 pip install ply
 ```
 
 [Back to top &uarr;](#)
 
-<a name="#lexer"></a>
+<a name="lexer"></a>
 ## Building a Lexer
 
 Before you write anything, start by reading at least sections 4 and 4.1 of the Ply documentation: [read this first](http://www.dabeaz.com/ply/ply.html#ply_nn3).
@@ -186,7 +188,7 @@ If you need to test the lexer independently, try dumping the list of tokens like
 
 [Back to top &uarr;](#)
 
-<a name="#parser"></a>
+<a name="parser"></a>
 ## Building a Parser
 
 Next up is constructing a parser.
@@ -196,7 +198,7 @@ You will almost certainly need it.
 
 [Back to top &uarr;](#)
 
-<a name="#ebnf"></a>
+<a name="ebnf"></a>
 ### Understanding the EBNF Specification
 
 As we discussed in class, formal grammars can be tricky.
@@ -226,7 +228,7 @@ When writing your parser, if you run into error messages from Ply complaining ab
 
 [Back to top &uarr;](#)
 
-<a name="#parse_rules"></a>
+<a name="parse_rules"></a>
 ### Writing parser rules
 
 Note that because we've already given you a complete formal language specification, you don't need to add or remove any of the BNF production rules.
@@ -263,10 +265,10 @@ This is the abstract syntax tree.
 [Back to top &uarr;](#)
 
 
-<a name="#ast"></a>
+<a name="ast"></a>
 ## AST Construction
 
-<a name="#trees"></a>
+<a name="trees"></a>
 ### AST Data Structures
 [Back to top &uarr;](#)
 
@@ -284,7 +286,7 @@ The first is mostly so you can get some visual feedback on what your parser is d
 The second is a pre-order traversal, just like you've implemented before.
 We'll use this later.
 
-<a name="#syntax_translation"></a>
+<a name="syntax_translation"></a>
 ### Syntax-Directed Translation
 
 The next step is to flesh out both the parser and the AST subclass definitions.
