@@ -110,7 +110,7 @@ Because it's a team project, we encourage you to be proactive about distributing
 
 [Back to top &uarr;](#)
 
-<a name="skeleton></a>
+<a name="skeleton"></a>
 ### Downloading the Skeleton
 
 Language design and compiler construction are hard problems, and some of the design decisions that go into building them are beyond the scope of this class.
