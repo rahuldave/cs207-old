@@ -270,7 +270,6 @@ This is the abstract syntax tree.
 
 <a name="trees"></a>
 ### AST Data Structures
-[Back to top &uarr;](#)
 
 The first component of an AST is a tree data structure.
 This will be very similar to the trees you've seen in previous lectures.
@@ -285,6 +284,8 @@ The first is mostly so you can get some visual feedback on what your parser is d
 (Note that the samples in the skeleton come with dumps of a correct AST from our reference implementation of the AST class. Yours should be more or less the same, ignoring formatting differences.)
 The second is a pre-order traversal, just like you've implemented before.
 We'll use this later.
+
+[Back to top &uarr;](#)
 
 <a name="syntax_translation"></a>
 ### Syntax-Directed Translation
