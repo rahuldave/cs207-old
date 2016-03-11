@@ -179,6 +179,8 @@ And a symbol for 'varname' should appear in the table for `component-name`.
 
 This is not the tricky part. It's just to get you acquainted with the data structure.
 
+[Back to top &uarr;](#)
+
 <a name="libimport"></a>
 ### Importing External Libraries
 
@@ -237,6 +239,8 @@ For each of these, we need to add globally-scoped symbols to the symbol table.
 Finally, go ahead add a `mean` and `std` function to your `TimeSeries` class and decorate them with the PyPE component decorator.
 (`mean` should compute the mean of the values of a time series, and `std` should compute the standard deviation. You can use numpy functions to do this.)
 
+[Back to top &uarr;](#)
+
 <a name="populating"></a>
 ### Populating the Symbol Table
 
@@ -251,3 +255,5 @@ Once you're done, you should be able to call the `SymbolTable.pprint()` method t
 (Note that you'll need to be able to import your timeseries class to get this to work. You should've had this done in Monday's lab.)
 
 We've provided you with reference output in the samples directory to make sure you're on the right track.
+
+[Back to top &uarr;](#)
