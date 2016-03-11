@@ -1,3 +1,8 @@
+---
+title: Project
+layout: default
+---
+
 ## Project Milestone 1.
 
 Due 25th March 2016
