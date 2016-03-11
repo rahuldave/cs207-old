@@ -25,7 +25,6 @@ We've put these files in the same skeleton repository as before, and you'll need
 Because you've (hopefully) already worked on the previous lab, you don't want to copy over all the files (because you'd overwrite your work).
 These are the new files you'll want to copy over:
 
- - `ir.py`
  - `lib_import.py`
  - `symtab.py`
  - `translate.py`
