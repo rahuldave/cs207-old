@@ -37,7 +37,7 @@ Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs
 | M07     | [Lab 17: pip, make package, CLIs and setup.py ](https://github.com/iacs-cs207/cs207/blob/master/lectures/MyPackage.ipynb)                       | Compilers and DSLs Part 1                            | Compilers and DSLs Part 2, [Graphs](https://github.com/iacs-cs207/cs207/blob/master/lectures/Graphs.ipynb)             |                                          |
 | M07 lab | [stupidlang](https://github.com/rahuldave/stupidlang)                        | [Lab 18: PyPE, Part 1](https://iacs-cs207.github.io/cs207/labs/m09-lab.html) | [Lab 19: PyPE, Part 2](https://iacs-cs207.github.io/cs207/labs/m11-lab.html) |               |
 
-Milestone 1 evaluation and spring break.
+Milestone 1 evaluation and spring break. Milestone 1 is due the friday after spring break. Details on what it must have are (here)[project.md]
 
 | Week    | Monday: Systems and Software Engineering | Wednesday: Language                      | Friday: Data Structures and Algorithms   | @home                                 |
 | ------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ------------------------------------- |

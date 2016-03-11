@@ -3,6 +3,7 @@ title: Coursework and grading
 layout: default
 ---
 
+Project Milestone 1 details are [here](project.md).
 
 ## Working in groups
 
