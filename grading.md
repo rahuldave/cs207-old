@@ -3,7 +3,7 @@ title: Coursework and grading
 layout: default
 ---
 
-Project Milestone 1 details are [here]({% post_url project.html %}).
+Project Milestone 1 details are [here]({% post_url project.md %}).
 
 ## Working in groups
 
