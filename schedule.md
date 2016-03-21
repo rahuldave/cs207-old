@@ -37,12 +37,12 @@ Monday Labs are compulsory: we'll be doing group meetings then. Wed and Fri labs
 | M07     | [Lab 17: pip, make package, CLIs and setup.py ](https://github.com/iacs-cs207/cs207/blob/master/lectures/MyPackage.ipynb)                       | Compilers and DSLs Part 1                            | Compilers and DSLs Part 2, [Graphs](https://github.com/iacs-cs207/cs207/blob/master/lectures/Graphs.ipynb)             |                                          |
 | M07 lab | [stupidlang](https://github.com/rahuldave/stupidlang)                        | [Lab 18: PyPE, Part 1](https://iacs-cs207.github.io/cs207/labs/m09-lab.html) | [Lab 19: PyPE, Part 2](https://iacs-cs207.github.io/cs207/labs/m11-lab.html) |               |
 
-Milestone 1 evaluation and spring break. Milestone 1 is due the friday after spring break. Details on what it must have are [here](project.html). 
+Milestone 1 evaluation and spring break. Milestone 1 is due the friday after spring break. Details on what it must have are [here](project.html).
 
 | Week    | Monday: Systems and Software Engineering | Wednesday: Language                      | Friday: Data Structures and Algorithms   | @home                                 |
 | ------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ------------------------------------- |
-| M21     | DataRepresentation: serialization and Cython | Cython and C API, memproto, fast seq lab | Indexing: dbases/btrees, LSM Trees.      |                                       |
-| M21 lab | write simple dbase protocol              | implement a time series based on some c library and list of structs format | implement 2 level external storage for time series | convert dbase to btree dbase          |
+| M21     | [How is Python Implemented](https://github.com/iacs-cs207/cs207/blob/master/lectures/PythonImplementation.ipynb) | Cython and C API, memproto, fast seq lab | Indexing: dbases/btrees, LSM Trees.      |                                       |
+| M21 lab | [Implementation Lab](https://github.com/iacs-cs207/cs207/blob/master/labs/PythonImplementationLab.ipynb)              | implement a time series based on some c library and list of structs format | implement 2 level external storage for time series | convert dbase to btree dbase          |
 | M28     | profiling+perf analysis                  | Cython and numpy with algo in C: speed up | kNN numericals                           |                                       |
 | M28 lab | implement knn python and profile(R)      | knn in Cython and numpy (do a sklearn cython implementation)(R) | knn with a faster algorithm still exported to py (perhaps in py only) | implement some KNN numericals         |
 | A04     | unix: fd, sockets                        | Concurrency (asyncio or threads) multiprocess? | rtree/vptree                             |                                       |
