@@ -82,7 +82,7 @@ This should be intuitive: you can't compute `z` without knowing the values of `x
 A flowgraph captures these relationships explicitly.
 
 Flowgraphs are *DAGs*. If you recall from the lecture on graphs, directed acyclic graphs just means that (1) edges have direction, and (2) there are no cycles (so if you start at any given node, there's no path you can trace by following edges which leads back to itself).
-Additionally, we implement flowgraphs with adjacency lists, with the minor tweak that edge lists are held by the graph, not by individual nodes.
+Additionally, we implement flowgraphs with adjacency lists.
 The best way to understand is simply to look at the implementation provided in `fgir.py`.
 
 Nodes in a flowgraph are given unique symbolic names.
