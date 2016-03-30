@@ -43,18 +43,20 @@ Milestone 1 evaluation and spring break. Milestone 1 is due the friday after spr
 | ------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ------------------------------------- |
 | M21     | [How is Python Implemented](https://github.com/iacs-cs207/cs207/blob/master/lectures/PythonImplementation.ipynb) | [Coroutines](https://github.com/iacs-cs207/cs207/blob/master/lectures/ConcurrencyAndCoroutines.ipynb) | Compilers and DSLs Part 3 |                                       |
 | M21 lab | [Implementation Lab](https://github.com/iacs-cs207/cs207/blob/master/labs/PythonImplementationLab.ipynb)              | [Discrete Event Simulation](https://github.com/iacs-cs207/cs207/blob/master/labs/ConcurrencyAndCoroutinesLab.ipynb) | [Lab 22: PyPE, Part 3](https://iacs-cs207.github.io/cs207/labs/m25-lab.html) |          |
-| M28     | profiling+perf analysis                  | Cython and numpy with algo in C: speed up | kNN numericals                           |                                       |
-| M28 lab | implement knn python and profile(R)      | knn in Cython and numpy (do a sklearn cython implementation)(R) | knn with a faster algorithm still exported to py (perhaps in py only) | implement some KNN numericals         |
-| A04     | unix: fd, sockets                        | Concurrency (asyncio or threads) multiprocess? | rtree/vptree                             |                                       |
-| A04 lab | split REPL                               | multiple sockets handler with asyncio/threads/multiprocess(R) | rtree/vptree (R)                         | add to meta/index a vptree for kNN db |
-| A11     | PROJECT SCOPE/EXTRAS or GUEST: julia     | Functional vs non-functional for concurrency (mutablility,immutability, Monads, CG) | optimizing CG, graph based scheduler, dask |                                       |
-| A11 lab | get set on after-class project scope     | take your query language and construct a computational graph | optimize the graph                       | add computational graph to db         |
+| M28     | [Concurrency 2(callbacks)](https://github.com/iacs-cs207/cs207/blob/master/lectures/Concurrency2.ipynb)                  | [Concurrency 3(coroutines)](https://github.com/iacs-cs207/cs207/blob/master/lectures/Concurrency3.ipynb) | PyPE Part 4                          |                                       |
+| M28 lab | callback crawler (R, in lec)     | [asyncio crawler](https://github.com/iacs-cs207/cs207/blob/master/labs/distribute_Concurrency3Lab.ipynb)(R) | PyPE interpreter |          |
+| A04     | Performance/cython                        | Cython | kNN/Fourier/vptree                             |                                       |
+| A04 lab | Performance Lab                               | Cython Lab | kNN/Fourier/vptree Lab(R)                         |  |
+| A11     | Clients and Dbase servers     | Databases 1 | Databases 2 |                                       |
+| A11 lab | servers lab     | dbase lab | dbase lab                      |         |
+| A18  | Databases 3                          | Projects discuss        | TBD |    Algo paper week   |
+| A18 lab | dbase lab     | Integration lab | TBD                      |         |
+| A25  | TBD                             |             Wrapup          |                                          |       |
+| A25 lab | TBD     | Wrapup | Reading weeks start                      |   M2 Due      |
 
-Milestone 2 evaluation.
+Milestone 2 evaluation. Milestone 1 is due the friday of the week of April 25th, 11.59PM.
 
 | Week | Monday: Systems and Software Engineering | Wednesday: Language   | Friday: Data Structures and Algorithms   | @home |
 | ---- | ---------------------------------------- | --------------------- | ---------------------------------------- | ----- |
-| A18  | DTW  numericals                          | GUEST (dbases)        | FFT and its optimization(whole lecture: guest) |       |
-| A25  | Project work                             |                       |                                          |       |
 | M02  | Project work                             |                       |                                          |       |
-| M09  | Project due                              | Project presentations | Project grades                           |       |
+| M09  | Project work                              | Project due | Project presentations                           |       |
