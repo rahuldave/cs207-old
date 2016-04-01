@@ -12,7 +12,7 @@ mathjax: true
   - [Visualizing Flowgraphs](#viz)
   - [Topological Sort](#topo)
 - [Optimization](#optimization)
-  - [Assignment Ellision](#assign)
+  - [Assignment Elision](#assign)
   - [Dead Code Elimination](#dce)
 
 <a name="skeleton"></a>
@@ -43,8 +43,6 @@ Here's the list of files and functions you'll need for today's lab:
 
 This is a lot of changes, so please read back over them carefully.
 If you start running into bugs in a function you didn't write or new bugs in a function that previously worked, make sure you didn't accidentally skip one of these steps.
-
-**Final Note:**
 
 [Back to top &uarr;](#)
 
