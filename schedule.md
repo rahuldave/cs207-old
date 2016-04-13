@@ -47,12 +47,12 @@ Milestone 1 evaluation and spring break. Milestone 1 is due the friday after spr
 | M28 lab | callback crawler (R, in lec)     | [asyncio crawler](https://github.com/iacs-cs207/cs207/blob/master/labs/distribute_Concurrency3Lab.ipynb)(R) | [Lab 25: PyPE, Part 4](https://iacs-cs207.github.io/cs207/labs/a01-lab.html) |          |
 | A04     | [Profling](https://github.com/iacs-cs207/cs207/blob/master/lectures/Profiling.ipynb)/[Cython](https://github.com/iacs-cs207/cs207/blob/master/lectures/PerfAndCython1.ipynb)                       | [Cython2](https://github.com/iacs-cs207/cs207/blob/master/lectures/PerfAndCython2.ipynb) | kNN/Fourier/vptree                             |                                       |
 | A04 lab | [Performance Lab](https://github.com/iacs-cs207/cs207/blob/master/labs/PerfAndCython1Lab.ipynb)                              | [Cython2 Lab](https://github.com/iacs-cs207/cs207/blob/master/labs/distribute_PerfAndCython2Lab.ipynb) | [kNN/Fourier/vptree Lab](https://github.com/iacs-cs207/cs207/blob/master/labs/distribute_TSAnalysisLab.ipynb)                       |  |
-| A11     | [Databases 0](https://github.com/iacs-cs207/cs207/blob/master/lectures/Databases.ipynb)     | Databases 1 | Databases 2 |                                       |
-| A11 lab | dbase lab (above)    | dbase lab | dbase lab                      |         |
-| A18  | Databases 3                          | Projects discuss        | TBD |    Algo paper week   |
-| A18 lab | dbase lab     | Integration lab | TBD                      |         |
-| A25  | TBD                             |             Wrapup          |                                          |       |
-| A25 lab | TBD     | Wrapup | Reading weeks start                      |   M2 Due      |
+| A11     | [Databases 1](https://github.com/iacs-cs207/cs207/blob/master/lectures/Databases.ipynb)     | [Databases 2](https://github.com/iacs-cs207/cs207/blob/master/lectures/Databases2.ipynb) | Databases 3 |                                       |
+| A11 lab | dbase lab (above)    | dbase lab (above) | dbase lab                      |         |
+| A18  | Databases 4                          | Projects discuss        | Wrapup |    Algo paper week   |
+| A18 lab | dbase lab     | Dbase Integration lab | Similarity Dbase Integration lab                      |         |
+| A25  | No class                             |             No class          |                                          |       |
+| A25 lab | No class     | No class | Reading weeks start                      |   M2 Due      |
 
 Milestone 2 evaluation. Milestone 1 is due the friday of the week of April 25th, 11.59PM.
 
