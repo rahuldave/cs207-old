@@ -1,12 +1,11 @@
 ---
-title: tsdb cnd client communication
+title: tsdb (part 1, milestone 2): client communication
 layout: lecture
 mathjax: true
 ---
 
-# TSDB Part 1 (Part of Milestone 2)
 
-This is a skeleton for the database part of milestone 2 of your project.
+This is a skeleton for the database part 1 of milestone 2 of your project.
 
 ## copying this over
 
