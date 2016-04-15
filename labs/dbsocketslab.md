@@ -1,5 +1,5 @@
 ---
-title: tsdb (part 1, milestone 2): client communication
+title: tsdb (part 1, milestone 2) - client communication
 layout: lecture
 mathjax: true
 ---
