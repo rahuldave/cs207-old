@@ -60,3 +60,6 @@ target/
 
 MAC files
 *.DS_Store
+
+ipython checkpoints
+.ipnb_checkpoints/
