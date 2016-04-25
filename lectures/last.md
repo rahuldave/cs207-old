@@ -1,3 +1,8 @@
+---
+title: Last Lecture
+layout: default
+---
+
 ## Query Language and Optimization
 
 - first query expander converts to ir

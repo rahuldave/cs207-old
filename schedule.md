@@ -51,12 +51,14 @@ Milestone 1 evaluation and spring break. Milestone 1 is due the friday after spr
 | A11 lab | dbase lab (above)    | dbase lab (above) | [tsdb M2 lab](https://iacs-cs207.github.io/cs207/labs/dbsocketslab.html),[repo](https://github.com/rahuldave/tsdb-skeleton)                       |         |
 | A18  | [Databases 3](https://github.com/iacs-cs207/cs207/blob/master/lectures/Databases3.ipynb)                          | [Concurrency](https://github.com/iacs-cs207/cs207/blob/master/lectures/ProcessModels.ipynb) + Projects discuss        | [Query](https://iacs-cs207.github.io/cs207/lectures/last.html), Sim db |    Algo paper week   |
 | A18 lab | None     | Dbase Integration lab [repo](https://github.com/rahuldave/tsdb-skeleton/tree/part2) | Similarity Dbase Integration lab [repo](https://github.com/rahuldave/tsdb-skeleton/tree/part3)                     |         |
-| A25  | Wrapup and projects discuss                            |             No class          |                                          |       |
+| A25  | [Wrapup and projects discuss](https://iacs-cs207.github.io/cs207/lectures/cs207final.html)                            |             No class          |                                          |       |
 | A25 lab | None     | None | Reading weeks start                      |   M2 Due      |
 
-Milestone 2 evaluation. Milestone 1 is due the friday of the week of April 25th, 11.59PM.
+Milestone 2 evaluation. Milestone 2 is due Monday May 2nd, 11.59PM. [Details](Milestone2.html)
 
 | Week | Monday: Systems and Software Engineering | Wednesday: Language   | Friday: Data Structures and Algorithms   | @home |
 | ---- | ---------------------------------------- | --------------------- | ---------------------------------------- | ----- |
-| M02  | Project work                             |                       |                                          |       |
-| M09  | Project work                              | Project due | Project presentations                           |       |
+| M02  | Project work(also Milestone 2 due 11.59pm)                             |                       |                                          |       |
+| M09  | Project work                              | Project due (11.59pm) | Project presentations                           |       |
+
+Project Expectations [here](ProjectExpectations.html). Due Wednesday May 11th 11.59PM.
