@@ -62,3 +62,5 @@ Milestone 2 evaluation. Milestone 2 is due Monday May 2nd, 11.59PM. [Details](Mi
 | M09  | Project work                              | Project due (11.59pm) | Project presentations                           |       |
 
 Project Expectations [here](ProjectExpectations.html). Due Wednesday May 11th 11.59PM.
+
+Paper Expectations [here](paper.html). Due Wednesday May 11th 11.59PM.
